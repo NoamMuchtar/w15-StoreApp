@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Noam",
+      "email": "noam@webify.co.il",
+      "password": "Abc123",
+      "isAdmin": true
+    },
+    {
+      "id": "2",
+      "name": "Liat",
+      "email": "Liat@gmail.com",
+      "password": "BlaBla",
+      "isAdmin": false
+    },
+    {
+      "id": "bdd1",
+      "name": "Ari",
+      "email": "ari@gmail.com",
+      "password": "123456",
+      "isAdmin": false
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 16 pro",
+      "price": 999,
+      "category": "Smartphone",
+      "description": "The new Iphone 16 pro with storage of 256GB",
+      "image": "https://www.idigital.co.il/files/iPhone_16_Pro_PDP/%E2%80%8EiPhone16Pro.png",
+      "id": "1"
+    },
+    {
+      "name": "MacBook Pro",
+      "price": 1600,
+      "category": "Laptop",
+      "description": "10-Core CPU, 10-Core GPU, 16GB Unified Memory, 512GB SSD Storage¹",
+      "image": "https://www.idigital.co.il/files/MacBook%20Pro%20M3%20%D7%A2%D7%9E%D7%95%D7%93%20%D7%9E%D7%95%D7%A6%D7%A8/%E2%80%8EMacBook_Pro_M3_Max_Space_Black.png",
+      "id": 2
+    },
+    {
+      "name": "Apple Watch Ultra 2",
+      "price": 1000,
+      "category": "Smart Watch",
+      "description": "Featuring a stunning, new black titanium case, Apple Watch Ultra 2",
+      "image": "https://www.idigital.co.il/files/AW_Ultra2_2024/%E2%80%8EUltra2_Natural_Titanium_Alpine_Loop_Tan.png",
+      "id": "3"
+    },
+    {
+      "id": "051f",
+      "name": "AirPods Pro 2",
+      "price": 199,
+      "category": "Headphones",
+      "description": "X-ray perspective inside AirPods Pro highlighting custom-built driver and amplifier located near speaker on earbud.  Intelligent noise control Unheard-of sound. On every level.",
+      "image": "https://www.idigital.co.il/files/AirPods_Pro_2/AirPods_Pro_2Gen001.jpeg"
+    }
+  ]
+}
